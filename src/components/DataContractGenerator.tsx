@@ -25,7 +25,7 @@ const DATA_TYPES = [
   'number',
   'boolean',
   'date',
-  'datetime',
+  'timestamp',
   'array',
   'object',
 ];
